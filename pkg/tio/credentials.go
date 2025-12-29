@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/tenable/gotenable/pkg/base"
+	"github.com/biggeezerdevelopment/gotenable/pkg/base"
 )
 
 // CredentialsAPI handles credential operations.

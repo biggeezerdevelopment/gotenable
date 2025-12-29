@@ -4,7 +4,7 @@ package tio
 import (
 	"time"
 
-	"github.com/tenable/gotenable/pkg/base"
+	"github.com/biggeezerdevelopment/gotenable/pkg/base"
 )
 
 const (

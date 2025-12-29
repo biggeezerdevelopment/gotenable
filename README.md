@@ -5,7 +5,7 @@ A Go SDK for Tenable APIs, providing idiomatic Go interfaces to Tenable's securi
 ## Installation
 
 ```bash
-go get github.com/tenable/gotenable
+go get github.com/biggeezerdevelopment/gotenable
 ```
 
 ## Quick Start
@@ -17,7 +17,7 @@ import (
     "fmt"
     "log"
 
-    "github.com/tenable/gotenable/pkg/tio"
+    "github.com/biggeezerdevelopment/gotenable/pkg/tio"
 )
 
 func main() {

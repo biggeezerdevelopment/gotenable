@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/tenable/gotenable/pkg/tio"
+	"github.com/biggeezerdevelopment/gotenable/pkg/tio"
 )
 
 func main() {

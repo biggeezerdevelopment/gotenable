@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/tenable/gotenable/pkg/base"
+	"github.com/biggeezerdevelopment/gotenable/pkg/base"
 )
 
 // ScansAPI handles scan-related operations.

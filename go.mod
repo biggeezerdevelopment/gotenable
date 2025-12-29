@@ -1,4 +1,4 @@
-module github.com/tenable/gotenable
+module github.com/biggeezerdevelopment/gotenable
 
 go 1.22
 

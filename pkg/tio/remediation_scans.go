@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/tenable/gotenable/pkg/base"
+	"github.com/biggeezerdevelopment/gotenable/pkg/base"
 )
 
 // RemediationScansAPI handles remediation scan operations.
